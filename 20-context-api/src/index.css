@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helventica neue';
+  color: #fff;
+}
+html,
+body{
+  height: 100%;
+  width: 100%;
+  background-color: #d6cbd3;
+}
+
+.light{
+  background-color:#eca1a6;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 20px;
+  align-items: center;
+}
+.dark{
+  background-color:#b50914;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 20px;
+  align-items: center;
+}
+
+.nav2{
+  display: flex;
+  gap: 20px;
+  font-size: large;
+}
+
