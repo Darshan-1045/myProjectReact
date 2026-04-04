@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+h1 {
+  top:40%;
+  left: 50%;
+  font-size: 90px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  text-decoration: underline;
+  font-weight: 600;
+  white-space: nowrap ;
+}
+h3 {
+  top:40%;
+  left: 50%;
+  font-size: 90px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  text-decoration: underline;
+  font-weight: 600;
+  white-space: nowrap ;
+  text-transform: capitalize;
+}
